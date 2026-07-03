@@ -1,0 +1,8 @@
+{
+    "authentication": {
+        "strategy": "oauth2",
+        "clientId": "myclientid",
+        "clientSecret": "myclientsecret",
+        "redirectUri": "https://example.com/callback"
+    }
+}
